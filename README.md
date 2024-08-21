@@ -9,10 +9,3 @@ This React application showcases how to handle multiple form inputs using a sing
 - Form validation to ensure all fields are filled before submission
 - State management using a single state object
 
-## Installation
-
-1. **Clone the Repository**
-
-   ```bash
-   git clone https://github.com/yourusername/your-repository.git
-   cd your-repository
